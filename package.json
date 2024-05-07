@@ -1,0 +1,30 @@
+{
+    "name": "SvgLogo-Design",
+    "version": "1.0.0",
+    "description": "Wekk-10 Challenge",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikejsmith9843/SvgLogo-Design"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "https://github.com/mikejsmith9843/SvgLogo-Design",
+    "dependencies": {
+        "inquire": "0.4.8"
+    },
+    "devDependencies": {
+        "jest": "29.7.0"
+    }
+}
+
