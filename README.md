@@ -7,6 +7,10 @@ This application was built as a way to allow freelance web developers to create 
 # Screen Record
 
 
+https://github.com/mikejsmith9843/SvgLogo-Design/assets/151273894/6bb33f82-fb65-457d-9112-0cfa266a23c1
+
+
+
 
 # Technologies Used
 This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package manager), and file system module (node package manager). It also employs jest v29.5.0 (node package manager) for the unit testing conducted in this application.
